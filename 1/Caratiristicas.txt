@@ -1,0 +1,4 @@
+El mudolo de medico casi completo, solo le falta mostrar todos los examanes y medicamento aplicado,
+El moudlo de asignar horario ya esta completo.
+El modulo del especialista esta ya completo
+El moudulo del laboratorio ya esta completo.

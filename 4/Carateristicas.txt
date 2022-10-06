@@ -1,0 +1,10 @@
+El mudolo de medico casi completo, solo le falta mostrar todos los examanes y medicamento aplicado,
+El moudlo de asignar horario ya esta completo.
+El modulo del especialista esta ya completo
+El moudulo del laboratorio ya esta completo.
+El modulo de la farmacia ya esta compleo
+El  apartado de la contabilidad que esta en el modulo de administracion esta completo
+El apartado de reportes qu esta el el modulo de administracion esta completo
+
+----nueva actualizacion
+Correccion de ortografia 
